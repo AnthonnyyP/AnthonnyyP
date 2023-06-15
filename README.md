@@ -11,7 +11,7 @@
 <img align = "left" alt = "HTML" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img align = "left" alt = "CSS" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <img align = "left" alt = "JavaScript" width = "35px" style = "padding-right:15px;
-padding-top: 9px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+padding-top: 12px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align = "left" alt = "Python" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align = "left" alt = "MongoDB" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
 <img align = "left" alt = "Express" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg"/>
