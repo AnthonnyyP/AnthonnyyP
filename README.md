@@ -8,8 +8,6 @@
 
 ### Languages and Tools 
 -----
-<br>
-
 <img align = "left" alt = "HTML" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img align = "left" alt = "CSS" width = "45px" style = "padding-right:15px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <img align = "left" alt = "JavaScript" width = "35px" style = "padding-right:15px;
